@@ -12,4 +12,4 @@ Styling text, adjust line height, and position text using CSS.
 
 This is how it looks!
 
-![jpg](./nutritionlabel.png)
+![jpg](./img/nutritionlabel.png)
